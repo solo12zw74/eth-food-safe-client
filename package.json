@@ -1,0 +1,16 @@
+{
+  "name": "eth-food-safe-client",
+  "version": "1.0.0",
+  "description": "Learn Solidity. Level 3. Add client for blockchain app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@solo12zw74.github.com:solo12zw74/eth-food-safe-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
